@@ -1,7 +1,7 @@
 # My-TeX-files
 This repository contains all my tex files and makes them freely available. Feel free to download them and use them in any way you see fit.
 
-The files are ordered by:
+The files are stored as .zip and ordered by:
 - My papers;
 - my talks;
 - my YouTube presentations;
