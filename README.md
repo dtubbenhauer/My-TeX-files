@@ -1,7 +1,7 @@
 # My-TeX-files
 This repository contains all my tex files and makes them freely available. Feel free to download them and use them in any way you see fit.
 
-The files are stored as .zip (except the YouTube presentations which were too big) and ordered by:
+The files are stored as .zip (except the talks and YouTube presentations which were too big - I uploaded them to dropbox with link available here) and ordered by:
 - My papers;
 - my talks;
 - my YouTube presentations;
