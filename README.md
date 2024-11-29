@@ -13,7 +13,7 @@ The list might not be complete - work in progress.
 
 I am Daniel Tubbenhauer (they/them), I am a research mathematician who works at the University of Sydney and always up for a challange. Feel free to contact me anytime in case you have questions or suggestions or...reach out: **dtubbenhauer@gmail.com**
 
-<img src="https://www.dtubbenhauer.com/images/headshot2.png" width="250" height="277"><img src="https://www.dtubbenhauer.com/myresearch.png" width="320" height="250">
+<img src="https://www.dtubbenhauer.com/images/headshot2.png" width="250" height="277"><img src="https://www.dtubbenhauer.com/myresearch.png" width="350" height="277">
 
 <h2>Follow</h2>
 <ul class="icons">
